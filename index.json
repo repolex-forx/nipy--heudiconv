@@ -1,0 +1,11 @@
+{
+  "org": "nipy",
+  "repo": "heudiconv",
+  "versions": [
+    {
+      "commit": "fb8161b6128fa350cf6273f6d4b136fee98bb116",
+      "tag": "",
+      "parsed_at": "2026-11-08T06:46:32.085044+00:00"
+    }
+  ]
+}
