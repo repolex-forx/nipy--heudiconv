@@ -1,0 +1,7 @@
+[2026-11-08T06:44:50Z] === AST ITERATION 1 START | repo=nipy/heudiconv sha=fb8161b6 ===
+[2026-11-08T06:44:50Z] [iter=1] PHASE START: ast repo=nipy/heudiconv sha=fb8161b6
+[2026-11-08T06:44:50Z] [iter=1] Building AST aggregate chunks
+[2026-11-08T06:45:26Z] [iter=1] AST chunks built count=1 triples=463730
+[2026-11-08T06:45:26Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/fb8161b6128fa350cf6273f6d4b136fee98bb116/.complete
+[2026-11-08T06:45:26Z] [iter=1] PHASE END: ast elapsed_s=37 elapsed_min=0.6
+[2026-11-08T06:45:26Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
