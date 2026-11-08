@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/nipy/heudiconv/commit/fb8161b6128fa350cf6273f6d4b136fee98bb116",
       "git:hexsha": "fb8161b6128fa350cf6273f6d4b136fee98bb116",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T06:46:32.084326+00:00"
     },
     {
       "@id": "https://repolex.ai/r/nipy/heudiconv/commit/c314dca32d029f1774f8374b2243b752dcab57fb",
